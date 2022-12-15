@@ -1,1 +1,1 @@
-# Java-script-cardiff-excersises
+# Java-script-excersises
