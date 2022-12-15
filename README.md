@@ -1,1 +1,1 @@
-# Java-script-excersises
+# Java-script
